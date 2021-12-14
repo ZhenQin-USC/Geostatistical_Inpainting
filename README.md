@@ -9,5 +9,7 @@ Wasserstein GAN trained using small patches of training images (28x28x1):
 
 Sequential semantic inpainting:
 <div style="width: 60%; height: 60%">
-![sequential inpainting](/readme/SI_result.png ){:height="700px" width="400px"}
+  
+  ![sequential inpainting](/readme/SI_result.png )
+  
 </div>
