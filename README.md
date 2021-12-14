@@ -1,10 +1,8 @@
 # Geostatistical_Inpainting
 Sequential Semantic Inpainting for Geostatistical Inference
 
+Wasserstein GAN trained using small patches of training images (28x28x1):
 ![wgan_28x28](/readme/wgan28.png)
 
-`![wgan_28x28](/readme/wgan80.png)`
-
+Sequential semantic inpainting:
 ![sequential inpainting](/readme/SI_result.png)
-
-`![sequential inpainting_gif](/readme/Sequential_inpainting.gif)`
