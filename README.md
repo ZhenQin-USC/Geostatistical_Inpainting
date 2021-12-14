@@ -1,5 +1,5 @@
 # Geostatistical_Inpainting
-Sequential Semantic Inpainting for Geostatistical Inference
+(Sequential Semantic Inpainting for Geostatistical Inference)
 
 Wasserstein GAN trained using small patches of training images (28x28x1):
 ![wgan_28x28](/readme/wgan28.png)
