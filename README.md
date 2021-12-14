@@ -2,7 +2,7 @@
 (Sequential Semantic Inpainting for Geostatistical Inference)
 
 Wasserstein GAN trained using small patches of training images (28x28x1):
-<div style="width: 60%; height: 60%">
+<div style="width: 10%; height: 10%">
   
   ![wgan_28x28](/readme/wgan28.png)
   
